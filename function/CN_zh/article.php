@@ -97,7 +97,7 @@ for($t = 0; $t < count($each); $t++){
 <img src="<?php echo SAurl ?>img/head.png">
 <?php echo $each[$t] ?>
 </div>
-<?
+<?php
 
 }
 
@@ -144,7 +144,7 @@ document.getElementById("banner").style.background = "url('" + document.getEleme
 </div>
 </div>
 
-<?
+<?php
 
 Body_Post();
 

@@ -105,7 +105,7 @@ Body_Pre();
 
 </div>
 
-<?
+<?php
 
 Body_Post();
 	
@@ -229,7 +229,7 @@ Body_Pre();
 </div>
 
 
-<?
+<?php
 
 Body_Post();
 
@@ -307,7 +307,7 @@ Body_Pre();
 
 </div>
 
-<?
+<?php
 
 Body_Post();
 	

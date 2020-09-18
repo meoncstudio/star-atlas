@@ -137,7 +137,7 @@ $youziku.draw();
 </body>
 </html>
 
-<?
+<?php
 }
 
 

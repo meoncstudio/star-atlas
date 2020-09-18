@@ -307,7 +307,7 @@ Body_Pre();
 
 </div>
 
-<?
+<?php
 
 Body_Post();
 	
